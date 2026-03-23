@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0090-subsets-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
@@ -95,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
