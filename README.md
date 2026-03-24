@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0031-next-permutation) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
