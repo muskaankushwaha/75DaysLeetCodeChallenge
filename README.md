@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0217-contains-duplicate](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0416-partition-equal-subset-sum](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 ## Backtracking
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
