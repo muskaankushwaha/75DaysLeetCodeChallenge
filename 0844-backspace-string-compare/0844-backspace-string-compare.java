@@ -24,15 +24,16 @@ class Solution {
                 stack2.push(ch);
             }
          }
-         String s1="";
-         String s2="";
+         StringBuilder s1=new StringBuilder();
+         StringBuilder s2=new StringBuilder();
+         
          while(!stack1.isEmpty()){
-           s1+=stack1.pop();
+           s1.append(stack1.pop());
             }
              while(!stack2.isEmpty()){
-           s2+=stack2.pop();
+           s2.append(stack2.pop());
             }
-         if(s1.equals(s2)){
+         if(s1.toString().equals(s2.toString())){
          return true;
          }else{
             return false;
