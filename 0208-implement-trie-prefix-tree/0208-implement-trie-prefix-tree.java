@@ -1,11 +1,6 @@
 class Node{
     Node links[]=new Node[26];
     boolean flag=false;
-
-    public Node(){
-
-    }
-
     boolean containsKey(char ch){
         return (links[ch-'a']!=null);
     }
@@ -42,6 +37,7 @@ class Trie {
     }
     
     public boolean search(String word) {
+        // tC=O(lenOFWord)
         Node node=root;
         for(int i=0; i<word.length(); i++){
             if(!node.containsKey(word.charAt(i))){
@@ -55,6 +51,7 @@ class Trie {
     }
     
     public boolean startsWith(String prefix) {
+        // tC=O(lenOFWord)
       Node node=root;
          for(int i=0; i<prefix.length(); i++){
             if(!node.containsKey(prefix.charAt(i))){
