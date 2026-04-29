@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
