@@ -172,12 +172,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
