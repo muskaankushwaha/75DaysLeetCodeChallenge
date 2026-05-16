@@ -1,5 +1,5 @@
 class Solution {
-    void fn(int ind, int[]nums, boolean[]flag,List<Integer>ds, List<List<Integer>>ans){
+    void fn(int[]nums, boolean[]flag,List<Integer>ds, List<List<Integer>>ans){
         if(ds.size()==nums.length){
             ans.add(new ArrayList<>(ds));
             return;
@@ -9,7 +9,7 @@ class Solution {
             if(!flag[i]){
                 ds.add(nums[i]);
                 flag[i]=true;
-                fn(i+1,nums,flag,ds,ans);
+                fn(nums,flag,ds,ans);
                 ds.remove(ds.size()-1);
                 flag[i]=false;
             }
@@ -19,7 +19,7 @@ class Solution {
         Arrays.sort(nums);
         boolean [] flag =new boolean[nums.length];
         List<List<Integer>> ans=new ArrayList<>();
-        fn(0,nums,flag,new ArrayList<>(),ans);
+        fn(nums,flag,new ArrayList<>(),ans);
         return ans;
     }
 }
