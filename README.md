@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
@@ -273,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 ## Stack
 |  |
