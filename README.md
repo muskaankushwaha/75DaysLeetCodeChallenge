@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2540-minimum-common-value](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
@@ -459,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
