@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0733-flood-fill](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 ## String Matching
@@ -453,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 ## Interactive
 |  |
 | ------- |
