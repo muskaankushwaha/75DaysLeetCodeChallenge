@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0416-partition-equal-subset-sum) |
 | [1143-longest-common-subsequence](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
@@ -474,4 +476,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/muskaankushwaha/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
